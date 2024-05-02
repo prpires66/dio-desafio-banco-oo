@@ -4,7 +4,6 @@
 
 #### Autor: [Paulo Pires](https://github.com/prpires66)
 
-Criando um Banco Digital com Java e Orientação a Objetos
 ## Desafio Criando um Banco Digital com Java e Orientação a Objetos - Descrição [(fonte)](https://github.com/falvojr/lab-banco-digital-oo)
 
 # Criando um Banco Digital com Java e Orientação a Objetos
